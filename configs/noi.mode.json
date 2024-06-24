@@ -46,12 +46,6 @@
       "url": "https://chatgpt.com"
     },
     {
-      "id": "noi:chatgpt2",
-      "parent": "noi@ai",
-      "text": "ChatGPT_2",
-      "url": "https://chatgpt.com"
-    },
-    {
       "id": "noi:claude",
       "parent": "noi@ai",
       "text": "Claude",
